@@ -127,4 +127,4 @@ This is a learning repository containing coursework, practice, and experiments. 
 
 ## Author
 
-Maintained by [Sujin Oven](https://github.com/sujinoven) as part of an ongoing machine learning learning journey.
+Maintained by [SujinOven](https://github.com/sujinoven) as part of an ongoing machine learning learning journey.
